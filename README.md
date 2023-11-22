@@ -17,3 +17,7 @@ $ https://github.com/koechMR/Alx_maze_project.git
 * To execute or run use ./maze
 * Use up and down arrow keys to move forward and backward (keys w and s serve the same function)
 * Use right and left arrow keys to turn the camera arround (keys d and a serve the same function)
+
+## Authors
+
+- Brian koech - [koech](https://github.com/koechMR) / [Twitter](https://twitter.com/Brian_ke01)
