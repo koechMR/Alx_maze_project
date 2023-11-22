@@ -19,5 +19,6 @@ $ https://github.com/koechMR/Alx_maze_project.git
 * Use right and left arrow keys to turn the camera arround (keys d and a serve the same function)
 
 ## Authors
+The only author of this project
 
-- Brian koech - [koech](https://github.com/koechMR) / [Twitter](https://twitter.com/Brian_ke01)
+- Brian koech - [koechMR](https://github.com/koechMR) / [Twitter](https://twitter.com/Brian_ke01)
