@@ -18,7 +18,6 @@ typedef struct sdl_instance
 	SDL_Texture *skybox;
 	SDL_Surface *wall_surface;
 	SDL_Texture *wall_texture;
-	SDL_Texture *weapon;
 } sdl_instance;
 
 /**

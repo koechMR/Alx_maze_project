@@ -2,7 +2,7 @@
 #define RAYCAST_H
 
 void raycast(sdl_instance *sdl, player *player,  map_t *map,
-			 SDL_bool *map_active);
+		SDL_bool *map_active);
 SDL_Point check_ray_intersections(SDL_Point *center, double ray_rotation_angle,
 		map_t map, double *ray_len, int *orientation);
 void draw_3D_walls(sdl_instance *sdl, double ray_length, int index,
