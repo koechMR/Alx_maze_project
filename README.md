@@ -16,7 +16,7 @@ $ https://github.com/koechMR/Alx_maze_project.git
 ## Usage 
 * To execute or run use ./game map
 * Use up and down arrow keys to move forward and backward (keys w and s serve the same function)
-* Use right and left arrow keys to turn the camera arround (keys d and a serve the same function)
+* Use mouse to move side to side
 
 ## Authors
 The only author of this project
